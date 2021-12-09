@@ -87,8 +87,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangoapivue',
         'USER': 'admin',
-        'PASSWORD': 'P@ssw0rdhdc++',
-        'HOST': '61.19.80.157',
+        'PASSWORD': '123456',
+        'HOST': '123456',
         'PORT': '3306',
     }
 }
