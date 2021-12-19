@@ -85,8 +85,8 @@ pymysql.install_as_MySQLdb
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'djangoapivue',
-        'USER': 'admin',
+        'NAME': '123456789',
+        'USER': '123456',
         'PASSWORD': '123456',
         'HOST': '123456',
         'PORT': '3306',
